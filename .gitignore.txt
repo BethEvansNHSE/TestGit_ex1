@@ -1,6 +1,5 @@
 #input data
 input_data.csv
 
-
 #raw data dir
-/raw_data
+raw_data/
